@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/zhaoq_hero/dialogdemo/MainActivity.java" />
+    </issue>
+    <issue id="ValidFragment">
+        <ignore path="src/com/zhaoq_hero/dialogdemo/PayDialogFragment.java" />
+    </issue>
+</lint>
